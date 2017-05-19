@@ -1,0 +1,7 @@
+C:\Users\gertj\documents\visual studio 2017\Projects\Data science user-item\Data science user-item\bin\Debug\Data science user-item.exe.config
+C:\Users\gertj\documents\visual studio 2017\Projects\Data science user-item\Data science user-item\bin\Debug\Data science user-item.exe
+C:\Users\gertj\documents\visual studio 2017\Projects\Data science user-item\Data science user-item\bin\Debug\Data science user-item.pdb
+C:\Users\gertj\documents\visual studio 2017\Projects\Data science user-item\Data science user-item\obj\Debug\Data science user-item.exe
+C:\Users\gertj\documents\visual studio 2017\Projects\Data science user-item\Data science user-item\obj\Debug\Data science user-item.pdb
+C:\Users\gertj\documents\visual studio 2017\Projects\Data science user-item\Data science user-item\bin\Debug\assets\userItem.data
+C:\Users\gertj\documents\visual studio 2017\Projects\Data science user-item\Data science user-item\obj\Debug\Data science user-item.csprojResolveAssemblyReference.cache
